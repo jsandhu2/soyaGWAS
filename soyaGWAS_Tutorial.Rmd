@@ -57,7 +57,7 @@ dim(myG)
 
 
 ```{r}
-myY <- read.table("SoyaGWASTraitexample.txt", head = TRUE) 
+myY <- read.table("Traitexample.txt", head = TRUE) 
 dim(myY)
 ```
 
